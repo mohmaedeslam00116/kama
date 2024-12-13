@@ -1,0 +1,28 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Log files
+*.log
+
+# Virtual environment files
+venv/
+.venv/
+env/
+.env/
+
+# Streamlit cache
+.streamlit/cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE Specific files
+*.idea/
+*.vscode/
+
+# Python distribution files
+dist/
+build/
+*.egg-info/

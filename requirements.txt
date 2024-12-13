@@ -1,0 +1,9 @@
+streamlit
+transformers
+tensorflow
+google-cloud-storage
+boto3
+pandas
+numpy
+matplotlib
+pickle
